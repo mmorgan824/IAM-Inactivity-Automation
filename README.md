@@ -18,7 +18,7 @@ As a Technical Analyst, establishing this infrastructure was critical for testin
 <img width="1015" height="766" alt="Created Users" src="https://github.com/user-attachments/assets/51945bf3-3fbc-4bbd-a114-7006bb37837b" />
 
 
-I developed and executed a PowerShell automation script to perform bulk user provisioning within a dedicated TestLabUsers Organizational Unit (OU). 
+I developed and executed a PowerShell automation script to perform bulk user provisioning within a dedicated TestLabUsers Organizational Unit (OU). To optimize the development lifecycle, I utilized AI-driven code generation and debugging tools to architect the PowerShell automation scripts used in this lab.
 By utilizing loops and the New-ADUser cmdlet, I standardized the creation of 25 test identities with consistent naming conventions and specific security attributes. 
 This project demonstrates my ability to replace manual, error-prone tasks with scalable automation, ensuring data integrity across the directory.
 
